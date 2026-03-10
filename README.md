@@ -66,6 +66,22 @@ python test.py
 
 python captions.py
 
+## Dataset
+
+The model is trained using an architectural image dataset containing
+images of buildings, monuments, temples, and other structural designs
+used for caption generation.
+
+## Project Structure
+
+Architectural-Image-Captioning
+│
+├── train.py        # Model training script
+├── test.py         # Model testing and caption generation
+├── captions.py     # Caption processing and prediction
+├── requirements.txt
+└── README.md
+
 ## Applications
 
 * Architectural image documentation
