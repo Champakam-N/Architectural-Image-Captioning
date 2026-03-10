@@ -1,0 +1,8 @@
+tensorflow
+keras
+numpy
+opencv-python
+matplotlib
+nltk
+gtts
+googletrans
