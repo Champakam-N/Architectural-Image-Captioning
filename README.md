@@ -75,7 +75,7 @@ python captions.py
 
 ## Author
 
-Sha
+Champakam N
 
 ## License
 
